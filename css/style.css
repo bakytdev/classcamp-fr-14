@@ -709,3 +709,18 @@ body {
 }
 
 /*lesson end*/
+
+
+/*block start*/
+#block {
+    background: #0A0A0A;
+    padding: 180px 0;
+}
+
+.block h1{
+    color: #FFF;
+    font-size: 58px;
+    font-weight: 400;
+}
+
+/*block end*/
