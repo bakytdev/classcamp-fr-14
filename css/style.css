@@ -717,10 +717,107 @@ body {
     padding: 180px 0;
 }
 
-.block h1{
+.block h1 {
     color: #FFF;
     font-size: 58px;
     font-weight: 400;
+}
+
+
+.block-one-img-text h3 {
+    color: #FFF;
+    font-size: 19px;
+    font-weight: 400;
+    padding-bottom: 18px;
+}
+
+.block-one-img-text div a {
+    color: white;
+    font-size: 25px;
+}
+
+.block-one-img-text div h5 {
+    color: #FFF;
+    font-size: 13px;
+    font-weight: 400;
+    padding-left: 5px;
+}
+
+.block-one-img-text div {
+    display: flex;
+    align-items: center;
+}
+
+.block-one-img {
+    position: relative;
+}
+
+.block-one-img-text {
+    position: absolute;
+    bottom: 20px;
+    left: 15px;
+}
+
+.block-one {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 45%;
+}
+
+.block-one-title {
+    background: #8be8a9;
+    height: 380px;
+    padding: 30px;
+    position: relative;
+    margin-top: 6px;
+}
+
+.block-one-title h4 {
+    color: #95FEC1;
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: uppercase;
+}
+
+.block-one-title h2 {
+    width: 209px;
+    color: #FFF;
+    font-size: 29px;
+    font-weight: 400;
+    line-height: 36px;
+    padding: 17px 0 23px 0;
+}
+
+.block-one-title p {
+    width: 302px;
+    color: #FFF;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+}
+
+.block-one-title a {
+    color: #FFF;
+    font-size: 19px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    position: absolute;
+    bottom: 30px;
+    right: 30px;
+}
+
+.block-one-title a ion-icon {
+    font-size: 25px;
+    padding-left: 24px;
+}
+
+.block-general {
+    padding-top: 109px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
 
 /*block end*/
